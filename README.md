@@ -44,3 +44,21 @@ testing.
 ### Prerequisites
 
 - Java JDK installed (`javac` and `java` should be accessible via terminal or command prompt)
+
+## Objectives
+1. Automation of Test Cases: Develop test scripts to simulate user activities, such as
+logging in, searching for products, and completing a purchase.
+2. Functional Validation: Verify key features like search functionality, filters, product
+details, cart operations, and order placements.
+3. Error Identification: Identify and log errors or inconsistencies during automated
+testing for further debugging and improvement
+
+## Scope of the project
+
+Scope of the Project
+The project will test several key functionalities of Amazon’s website:
+1. User login and registration processes.
+2. Searching and filtering products by categories.
+3. Adding/removing products from the cart and wishlist.
+4. Changing language and country preferences
+5. Taking screensho
